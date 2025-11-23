@@ -169,7 +169,7 @@ export default function Hug(){
             <p className="text-xl text-gray-600 italic">
               {score === questions.length 
                 ? "You know everything about making this birthday special! 🌟" 
-                : "Every answer shows how much you care! 💝"}
+                : "You’re the best bestie ever! ❤️❤️❤️"}
             </p>
             
             <div className="flex gap-4 justify-center flex-wrap">
